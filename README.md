@@ -74,7 +74,10 @@ After a stint as a teacher in South Korea, I found my passion in software develo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WayneFerrao&theme=black-ice)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=WayneFerrao)
-<!-- #### What I'm listening to 🎵 -->
+
+### What I'm listening to 🎵 
+
+[![Spotify](https://novatorem-klqhi3m6u.vercel.app/api/spotify)](https://open.spotify.com/user/217jqysevt6vrjbg2qrhqqyba)
 
 <!-- Visit my portfolio at www.wayneferrao.io>
 <!--
