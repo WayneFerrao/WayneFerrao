@@ -75,7 +75,7 @@ After a stint as a teacher in South Korea, I found my passion in software develo
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=WayneFerrao)
 
-### What I'm listening to 🎵 
+### 🎵  Currently vibing to  
 
 [![Spotify](https://novatorem-2ridsl54n.vercel.app/api/spotify)](https://open.spotify.com/user/217jqysevt6vrjbg2qrhqqyba)
 
