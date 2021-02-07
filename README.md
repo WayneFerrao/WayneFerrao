@@ -77,7 +77,7 @@ After a stint as a teacher in South Korea, I found my passion in software develo
 
 ### What I'm listening to 🎵 
 
-[![Spotify](https://novatorem-klqhi3m6u.vercel.app/api/spotify)](https://open.spotify.com/user/217jqysevt6vrjbg2qrhqqyba)
+[![Spotify](https://novatorem-2ridsl54n.vercel.app/api/spotify)](https://open.spotify.com/user/217jqysevt6vrjbg2qrhqqyba)
 
 <!-- Visit my portfolio at www.wayneferrao.io>
 <!--
