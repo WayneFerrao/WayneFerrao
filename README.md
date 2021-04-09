@@ -11,7 +11,6 @@ Huge nerd! 🤓
 I started with science 🧬🔬 (Biology at the Universiy of Toronto).
 After a stint as a teacher in South Korea, I found my passion in software development and followed it to Computer Science.🧑🏽‍💻
 <ul>
-    <li> <b>🔍I'm currently seeking new grad opportunities</b> as I finish my final semester!</li>
     <li> 🤔I'm currently learning the fundamentals of <b>Computer Vision!</b></li>
     <li>😄 Pronouns: He/him</li>
 </ul>
