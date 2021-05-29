@@ -2,9 +2,8 @@
 
 ### <img src="assets/wave.gif" width="29px">  Hey there!&nbsp; 
 
-I'm a 4th year undergrad at Ryerson University.
-
-Technical Lead at Ryerson DSC.
+I'm a Software Engineer.
+Graduated with Honours from Ryerson CS.
 
 Huge nerd! 🤓
 
