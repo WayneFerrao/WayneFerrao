@@ -3,7 +3,7 @@
 ### <img src="assets/wave.gif" width="29px">  Hey there!&nbsp; 
 
 I'm a Software Engineer.
-Graduated with Honours from Ryerson CS.
+Graduated with Honours in CS from Toronto Metropolitan University (formerly Ryerson).
 
 Huge nerd! 🤓
 
