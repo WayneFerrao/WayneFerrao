@@ -10,7 +10,7 @@ Huge nerd! 🤓
 I started with science 🧬🔬 (Biology at the Universiy of Toronto).
 After a stint as a teacher in South Korea, I found my passion in software development and followed it to Computer Science.🧑🏽‍💻
 <ul>
-    <li> 🤔I'm currently learning about <b>Web Sockets!</b></li>
+    <li> 🤔I'm currently learning about and working on real time collaboration using <b>Fluid Framework!</b></li>
     <li>😄 Pronouns: He/him</li>
 </ul>
 
