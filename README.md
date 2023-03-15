@@ -5,8 +5,6 @@
 I'm a Software Engineer.
 Graduated with Honours in CS from Toronto Metropolitan University (formerly Ryerson).
 
-Huge nerd! 🤓
-
 I started with science 🧬🔬 (Biology at the Universiy of Toronto).
 After a stint as a teacher in South Korea, I found my passion in software development and followed it to Computer Science.🧑🏽‍💻
 <ul>
