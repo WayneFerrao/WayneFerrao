@@ -7,10 +7,8 @@ Graduated with Honours in CS from Toronto Metropolitan University (formerly Ryer
 
 I started with science 🧬🔬 (Biology at the University of Toronto).
 After a stint as a teacher in South Korea, I found my passion in software development and followed it to Computer Science.🧑🏽‍💻
-<ul>
-    <li> 🤔I'm currently learning iOS development!</b></li>
-    <li>😄 Pronouns: He/him</li>
-</ul>
+
+🤔I'm currently learning iOS development!</b></li>
 
 ## Skills
 ##### Languages
